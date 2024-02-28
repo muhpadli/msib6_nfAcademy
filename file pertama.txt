@@ -7,3 +7,4 @@ Kumpulan Materi MSIB 6
 - Laravel
 - Mysql Database
 - REST API
+- React JS
